@@ -1,2 +1,2 @@
 # gobucket
-reach into do bucket
+reach into da bucket
